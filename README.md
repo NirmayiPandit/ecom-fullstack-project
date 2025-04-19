@@ -40,4 +40,7 @@ This is a full-stack e-commerce web application built with React (Vite) for the 
 3. Run the backend application:
    ```bash
    mvn spring-boot:run
+   
+OR 
+Just Open IntelliJ and Click on Run
 (The backend should now be running at http://localhost:8080.)
